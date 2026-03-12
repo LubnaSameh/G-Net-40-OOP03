@@ -66,7 +66,7 @@ namespace OOP_03
             // d. Close the Cinema
             myCinema.CloseCinema();
 
-            #endregion
+            #endregion\
         }
     }
 
